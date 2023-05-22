@@ -5,9 +5,9 @@
 
 <small><strong>❯❯ Some of my recent contributions ↓</strong></small>
 
-- 🔭 I’m currently working on ciudadano digital (Córdoba, Argentina)
-- 🌱 I’m currently learning node js and BOTS
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on CIDS (Córdoba, Argentina)
+- 🌱 I’m currently learning node js and automation 
+- 👯 I’m looking to collaborate on CiDi
 - 🤔 I’m looking for help with english
 
 -->
